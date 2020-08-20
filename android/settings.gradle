@@ -1,0 +1,3 @@
+rootProject.name = 'rw_kitchen_order'
+
+include ':app'
